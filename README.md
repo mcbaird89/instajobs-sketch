@@ -3,4 +3,5 @@ Since multiple people are designing this app across the world, this repo will he
 
 # Recommended Plugins
 Content Generator: https://github.com/timuric/Content-generator-sketch-plugin
+
 Dynamic Buttons: https://github.com/ddwht/sketch-dynamic-button
